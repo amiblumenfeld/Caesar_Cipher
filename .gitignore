@@ -1,0 +1,6 @@
+
+.venv/
+# Byte-code files
+__pycache__/
+*.py[codz]
+*$py.class
